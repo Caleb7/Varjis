@@ -1,0 +1,3 @@
+reboot|reboot
+message box|messagebox
+test|print
